@@ -13,6 +13,8 @@
 
 #include <iomanip>
 #include <sstream>
+#include <limits>
+
 
 namespace geo {
 
